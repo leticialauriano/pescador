@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Pescador\bin\Debug\Pescador.exe.config
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Pescador\bin\Debug\Pescador.exe
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Pescador\bin\Debug\Pescador.pdb
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Pescador\obj\Debug\Pescador.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Pescador\obj\Debug\Pescador.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Pescador\obj\Debug\Pescador.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Pescador\obj\Debug\Pescador.exe
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Pescador\obj\Debug\Pescador.pdb
